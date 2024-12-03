@@ -1,1 +1,3 @@
-# Predicting-Medical-Conditions-from-Reddit-Posts
+The aim is to develop a machine learning model to predict specific medical conditions from text data sourced from Reddit posts. The goal is to create a tool that can assist in early detection and classification of various health conditions by analyzing patterns and content in social media posts.
+The project focuses on multi-class classification of Reddit posts by subreddit using text preprocessing, feature extraction (TF-IDF and Word2Vec), and multiple machine learning models (Logistic Regression, Decision Tree, Random Forest, and LSTM).
+Models were evaluated using metrics like accuracy, precision, recall, and confusion matrices, with Word2Vec embeddings often outperforming TF-IDF in terms of predictive performance across traditional and deep learning classifiers.
